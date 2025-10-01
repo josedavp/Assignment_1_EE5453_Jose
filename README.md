@@ -35,6 +35,7 @@ Hardware was tested with RTX 3060 Ti
 
 ## Results Sumamry:
 The model was trainged on the Tiny Shakespeare dataset it relied on 7 epochs with a block size of 128 and batch size of 64. It produced a stead decrease in validation and training losses across epochs from 1 to 0.4841 in Epoche 7. Validation loss remained at a steady 1.5060. The model generated text samples for Romeo and Juliet in Shakespearean language. 
-Screenshot of epoch is show in the images/ folder.
+
+*Screenshot of training are shown in the images/ folder.*
 
 
