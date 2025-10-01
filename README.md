@@ -32,3 +32,9 @@ python generate.py --prompt "JULIET:" --tokens 200 --out sample_juliet.txt
 ### Notes:
 Code files needed: model.py, train.py, generate.py
 Hardware was tested with RTX 3060 Ti
+
+## Results Sumamry:
+The model was trainged on the Tiny Shakespeare dataset it relied on 7 epochs with a block size of 128 and batch size of 64. It produced a stead decrease in validation and training losses across epochs from 1 to 0.4841 in Epoche 7. Validation loss remained at a steady 1.5060. The model generated text samples for Romeo and Juliet in Shakespearean language. 
+
+
+
