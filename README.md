@@ -1,6 +1,10 @@
 # EE 5453 Class assignment. This repository contains a implementation of a mini Transformer (Tiny Shakespeare) 
 *AI (ChatGPT) was used in setup troubleshooting, debugging Anaconda/Python configuration errors (PyTorch through Anaconda is not compatible with 5080 just yet. I learned how to properly configure and debug virtual environments, understand how CUDA errors are formed, verify how environments are interconnected, and verify deeper knowledge on my GPU and system hardware. It helped me verify the structure of the README through best academic/industry practices. While it did provide guidance I verified each type and confirmed the overall functionality and system design. It also helped in explaining the research paper from a more technical form to easier to digest version after I read the paper first. It provided explanations on the Transformer code, and helped explain line my line while creating a template TODO for me to work on. I verified each step, reviewed each line, and saw how a Transformer is correctly processed.*
 
+Primary Queries with Reflection, and Raw Queries are within the main repository:
+*AI_Queries_Reflection*
+*raw_AI_queries*
+
 
 ### Setup
 Create and activate a conda environment (Python 3.11.13) was used.
